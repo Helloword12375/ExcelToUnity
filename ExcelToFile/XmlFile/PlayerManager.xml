@@ -1,0 +1,17 @@
+<PlayerManagerXml_Table>
+  <PlayerManager Id="1">
+    <Id>1</Id>
+    <Name>张三</Name>
+    <LeveID>1</LeveID>
+  </PlayerManager>
+  <PlayerManager Id="2">
+    <Id>2</Id>
+    <Name>李四</Name>
+    <LeveID>36</LeveID>
+  </PlayerManager>
+  <PlayerManager Id="3">
+    <Id>3</Id>
+    <Name>王五</Name>
+    <LeveID>12</LeveID>
+  </PlayerManager>
+</PlayerManagerXml_Table>
